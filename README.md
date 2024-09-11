@@ -1,3 +1,9 @@
+# CRUD DEVELOPED USING REDIS  DATABASE
+## <a href="https://crudredis.netlify.app/"> Tap to Visit</a>
+## HOME USER , ADD USER , EDIT USER
+<img width="1158" alt="image" src="https://github.com/user-attachments/assets/7d74deec-e039-4c63-9aed-70e49888f5cd">
+<img width="1158" alt="image" src="https://github.com/user-attachments/assets/87874731-26f3-4436-9a13-b2eef6fbc38e">
+<img width="1158" alt="image" src="https://github.com/user-attachments/assets/d4303b3c-2b18-40b9-b0be-61262c56b4e7">
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
